@@ -1,3 +1,3 @@
 # [Leetcode](https://leetcode.com/problemset/all/)
 
-[![Leetcode](images/LeetCode_Logo.svg)](https://leetcode.com/problemset/all/)
+[![Leetcode](https://leetcode.com/static/images/LeetCode_Sharing.png)](https://leetcode.com/problemset/all/)
