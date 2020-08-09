@@ -20,7 +20,7 @@
 |  11 | Binary Number with Alternating Bits                                           | No    | Yes      |
 |  12 | Binary Search                                                                 | No    | Yes      |
 |  13 | Buddy strings                                                                 | No    | Yes      |
-|  14 | Build an Array With Stack Operations                                          | No    | Yes      |
+|  14 | Build an Array With Stack Operations                                          | Yes   | Yes      |
 |  15 | Bulb switcer III                                                              | No    | Yes      |
 |  16 | Bulb Switcher                                                                 | No    | Yes      |
 |  17 | Can Make Arithmetic Progression From Sequence                                 | No    | Yes      |
@@ -28,7 +28,7 @@
 |  19 | Check If All 1's Are at Least Length K Places Away                            | No    | Yes      |
 |  20 | Complement of Base 10 Integer                                                 | No    | Yes      |
 |  21 | Container With Most Water                                                     | No    | Yes      |
-|  22 | Contains Duplicate                                                            | No    | Yes      |
+|  22 | Contains Duplicate                                                            | Yes   | Yes      |
 |  23 | Convert Binary Number in a Linked List to Integer                             | No    | Yes      |
 |  24 | Count Good Triplets                                                           | No    | Yes      |
 |  25 | Count Largest Group                                                           | No    | Yes      |
@@ -87,8 +87,8 @@
 |  78 | Lucky Numbers in a Matrix                                                     | No    | Yes      |
 |  79 | Majority Element                                                              | No    | Yes      |
 |  80 | Make The String Great                                                         | No    | Yes      |
-|  81 | Make Two Arrays Equal by Reversing Sub-arrays                                 | No    | Yes      |
-|  82 | Max Consecutive Ones                                                          | No    | Yes      |
+|  81 | Make Two Arrays Equal by Reversing Sub-arrays                                 | Yes   | Yes      |
+|  82 | Max Consecutive Ones                                                          | Yes   | Yes      |
 |  83 | Maximum number 69                                                             | No    | Yes      |
 |  84 | Maximum Product of Two Elements in an Array                                   | No    | Yes      |
 |  85 | Maximum Product of Word Lengths                                               | No    | Yes      |
@@ -186,12 +186,7 @@
 | 177 | Water bottles                                                                 | No    | Yes      |
 | 178 | XOR Operation in an Array                                                     | No    | Yes      |
 | 179 | XOR Queries of a Subarray                                                     | No    | Yes      |
-| 180 | Build an Array With Stack Operations                                          | Yes   | No       |
-| 181 | Contains Duplicate                                                            | Yes   | No       |
-| 182 | Make Two Arrays Equal by Reversing Sub-arrays                                 | Yes   | No       |
-| 183 | Max Consecutive Ones                                                          | Yes   | No       |
-| 184 | Rank transformation of an array                                               | Yes   | No       |
-
+| 180 | Rank transformation of an array                                               | Yes   | No       |
 
 ## Contribution Guidlines
 ### How to contribute?
