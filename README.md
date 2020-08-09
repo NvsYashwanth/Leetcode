@@ -189,8 +189,6 @@
 | 180 | [Rank transformation of an array](https://leetcode.com/problems/rank-transformation-of-an-array/)                                                                                  | [Yes](./Leetcode%20Cpp/Rank%20transformation%20of%20an%20array.cpp)                   | No                                                                                                                                    |
 
 
-[-]
-
 
 
 
