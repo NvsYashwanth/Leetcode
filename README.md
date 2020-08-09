@@ -4,7 +4,7 @@
   <img src="https://leetcode.com/static/images/LeetCode_Sharing.png">
 </p>
 
-## [`PLEASE READ THE CONTRIBUTION GUIDELINES AT THE BOTTOM OF THIS README`](https://github.com/NvsYashwanth/Leetcode/blob/master/README.md#contribution-guidlines)
+## [`PLEASE CLICK HERE TO READ THE CONTRIBUTION GUIDELINES`](https://github.com/NvsYashwanth/Leetcode/blob/master/README.md#contribution-guidlines)
 
 ## Note :
 * The table below summarizes this repo
