@@ -191,16 +191,7 @@
 | 177 | [Water bottles](https://leetcode.com/problems/water-bottles/)                                                                                                                      | No                                                                                    | [Yes](./Leetcode%20Python/Water%20bottles.py)                                                                                         |
 | 178 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)                                                                                              | No                                                                                    | [Yes](./Leetcode%20Python/XOR%20Operation%20in%20an%20Array.py)                                                                       |
 | 179 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)                                                                                              | No                                                                                    | [Yes](./Leetcode%20Python/XOR%20Queries%20of%20a%20Subarray.py)                                                                       |
-| 180 | [Rank transformation of an array](https://leetcode.com/problems/rank-transformation-of-an-array/)                                                                                  | [Yes](./Leetcode%20Cpp/Rank%20transformation%20of%20an%20array.cpp)                   | No                                                                                                                                    |
-
-
-
-
-
-
-
-
-
+| 180 | [Rank transform of an array](https://leetcode.com/problems/rank-transform-of-an-array/)                                                                                            | [Yes](./Leetcode%20Cpp/Rank%20transform%20of%20an%20array.cpp)                        | No                                                                                                                                    |
 ## Contribution Guidlines
 ### How to contribute?
 1. Fork the repository
