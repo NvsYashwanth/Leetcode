@@ -5,8 +5,8 @@
 </p>
 
 ## Contribution Guidlines
-***How to contribute***
-***When to contribute***
+### How to contribute
+### When to contribute
 
 
 
