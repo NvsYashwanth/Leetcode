@@ -4,6 +4,8 @@
   <img src="https://leetcode.com/static/images/LeetCode_Sharing.png">
 </p>
 
+## `PLEASE READ THE CONTRIBUTION GUIDELINES AT THE BOTTOM OF THIS README`
+
 ## Note :
 * The table below summarizes this repo
 * Clicking on the problem name will redirect you to the specific problem page of leetcode website
