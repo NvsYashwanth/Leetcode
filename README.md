@@ -6,7 +6,7 @@
 
 ## [`PLEASE CLICK HERE TO READ THE CONTRIBUTION GUIDELINES`](https://github.com/NvsYashwanth/Leetcode/blob/master/README.md#contribution-guidlines):zap:
 
-## Note : :pushpin:
+## Note :pushpin:
 * The table below summarizes this repo
 * Clicking on the problem name will redirect you to the specific problem page of leetcode website
 * For each problem corresponding solutions for `C++` and `Python` are mentioned as `Yes` or `No` indicating the availability of the solution in that specific language in the repository. Clicking on `Yes` for corresponding problem will take you to the repo link of problem solution.
@@ -195,7 +195,7 @@
 | 179 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)                                                                                              | No                                                                                    | [Yes](./Leetcode%20Python/XOR%20Queries%20of%20a%20Subarray.py)                                                                       |
 | 180 | [Rank transform of an array](https://leetcode.com/problems/rank-transform-of-an-array/)                                                                                            | [Yes](./Leetcode%20Cpp/Rank%20transform%20of%20an%20array.cpp)                        | No                                                                                                                                    |
 
-## Contribution Guidlines
+## Contribution Guidlines :page_with_curl:
 ### How to contribute? :eyes:
 1. Fork the repository
 2. Make the desired changes (add/delete/modify)
