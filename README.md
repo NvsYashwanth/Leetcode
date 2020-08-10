@@ -6,7 +6,7 @@
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/NvsYashwanth)       [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)       [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 
-## `PLEASE SCROLL TO THE BOTTOM OF THE PAGE TO READ THE CONTRIBUTION GUIDELINES`:zap:
+## `PLEASE SCROLL TO THE BOTTOM OF THE PAGE TO READ THE CONTRIBUTION GUIDELINES`        ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 ## Note :pushpin:
 * The table below summarizes this repo
@@ -195,8 +195,9 @@
 | 177 | [Water bottles](https://leetcode.com/problems/water-bottles/)                                                                                                                      | No                                                                                    | [Yes](./Leetcode%20Python/Water%20bottles.py)                                                                                         |
 | 178 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)                                                                                              | No                                                                                    | [Yes](./Leetcode%20Python/XOR%20Operation%20in%20an%20Array.py)                                                                       |
 | 179 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)                                                                                              | No                                                                                    | [Yes](./Leetcode%20Python/XOR%20Queries%20of%20a%20Subarray.py)                                                                       |
-| 180 | [Rank transform of an array](https://leetcode.com/problems/rank-transform-of-an-array/)                                                                                            | [Yes](./Leetcode%20Cpp/Rank%20transform%20of%20an%20array.cpp)                        | No                                                                                                                                    |
-
+| 180 | [Rank transform of an array](https://leetcode.com/problems/rank-transform-of-an-array/)                                                                                            | [Yes](./Leetcode%20Cpp/Rank%20transform%20of%20an%20array.cpp)                        | No                                                                                   
+|
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 ## Contribution Guidlines :page_with_curl:
 ### How to contribute? :eyes:
 1. Fork the repository
