@@ -4,8 +4,9 @@
   <img src="https://leetcode.com/static/images/LeetCode_Sharing.png">
 </p>
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/NvsYashwanth)       [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)       [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)        
-![GitHub last commit](https://img.shields.io/github/last-commit/NvsYashwanth/Leetcode)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/NvsYashwanth)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/NvsYashwanth/Leetcode)        ![](https://badgen.net/badge/Code/Python/blue?icon=https://simpleicons.org/icons/python.svg&labelColor=cyan&label)        ![](https://badgen.net/badge/Code/C++/blue?icon=https://simpleicons.org/icons/cplusplus.svg&labelColor=cyan&label)
 
 ## `PLEASE SCROLL TO THE BOTTOM OF THE PAGE TO READ THE CONTRIBUTION GUIDELINES` :zap:
 
