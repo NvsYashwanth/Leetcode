@@ -16,6 +16,9 @@
 * For each problem corresponding solutions for `C++` and `Python` are mentioned as `Yes` or `No` indicating the availability of the solution in that specific language in the repository. Clicking on `Yes` for corresponding problem will take you to the repo link of problem solution.
 
 ## Happy Leetcoding :heart:
+
+![](https://badgen.net/badge/TotalSums/180/blue?icon)
+
 |   # | Problem                                                                                                                                                                            | C++ :muscle:                                                                          | Python :snake:                                                                                                                        |
 |----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|
 |   1 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)                                                            | No                                                                                    | [Yes](./Leetcode%20Python/Add%20and%20Search%20Word%20-%20Data%20structure%20design.py)                                               |
